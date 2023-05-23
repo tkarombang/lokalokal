@@ -1,0 +1,23 @@
+[
+  {
+    "id": 123,
+    "judul": "Yopfest Festival",
+    "tanggal": "19 - feb - 2023",
+    "deskripsi": "Yops Fest merupakan Festival Musik dengan konsep Tropical Beach Vibes yang menyediakan ruang kreatif dan ruang untuk mengeksperisikan diri serta menghadirkan Artis Lokal yang dikolaborasikan artis Terbaik Tanah Air.\n<br>YopsFest juga hadir untuk mengembangkan kelestarian tradisi budaya daerah mulai dari kuliner Hingga bahasa serta peningkatan SDM nya. YopsFest mengharapkan output yang mengembalikan kejayaan musisi lokal dan juga sebagai dukungan untuk para musisi lokal serta pelaku usaha UMKM dapat memasarkan produknya jauh lebih luas pada kegiatan tersebut.",
+    "poster": "./img/news/yopfest_news.jpg"
+  },
+  {
+    "id": 456,
+    "judul": "Rock In Celebes",
+    "tanggal": "17 - feb - 2022",
+    "deskripsi": "Nyatanya, angka 13 yang dikeramatkan oleh sebagian orang tidak melulu membawa hal negatif. Buktinya, pada perayaan ke-13 tahun, Rock In Celebes sukses menjalankan festival luring yang didahului oleh 6 panggung submisi, audisi dan showcase untuk menjaring nama-nama segar dan potensial. Pada akhirnya Rock In Celebes 2022 melibatkan 50 nama artis/musisi/band dari kancah lokal dan nasional, termasuk artis visual yang turut berkolaborasi.\n<br>Semua karya visual tersebar di berbagai sudut festival, dan semua grup musik/musisi tampil di 3 panggung berbeda secara simultan. Semua panggung memiliki ciri khas, cerita, dan keseruannya masing-masing. Menikmati festival musik secara utuh, mulai dari program yang ditawarkan, macam-macam kuliner yang dijajakan, sampai sajian dari atas panggung yang selalu diantisipasi oleh seluruh pengunjung yang rindu berfestival, berkumpul, dan bertemu jejaring baru. Ya, kami pun rindu dengan banyak momen manis yang terukir di Rock In Celebes edisi ke-13 tahun.",
+    "poster": "./img/news/ric_news.jpg"
+  },
+  {
+    "id": 789,
+    "judul": "Soundstational",
+    "tanggal": "10 - March - 2018",
+    "deskripsi": "Jakarta - Soundsations kembali digelar tahun ini. Mengusung tema 100 Kota 1 Bahasa, konser itu juga bisa menjadi ajang silaturahmi musisi.\n<br>Dari keterangan pers yang didapat detikHOT, sederet musisi dijadwalkan bakal tampil di Soundsations 2018. Mereka adalah Sheila On 7, Kotak, Jamrud, Seringai, Barasuara, Naif, Stars and Rabbit, Dipha Barus, Elephant Kind, The Adams, dan masih banyak lagi yang lainnya.\n<br>Iga Masardi, personel Barasuara, mengatakan ada beberapa hal menarik yang selalu dinantikan saat Soundsations berlangsung. Salah satunya adalah animo penonton yang sulit ditemukan di festival musik lainnya.\n<br>\"Hal yang paling ditunggu dari Soundsations tahun ini tentunya animo penonton di setiap kota, energinya akan berbeda-beda. Tentunya kami sangat antusias untuk menyajikan penampilan terbaik kami. Apalagi saya juga penasaran dengan karya kolaborasi dari komunitas kreatif di kota-kota yang nanti kami akan manggung,\" ungkap Iga.",
+    "poster": "./img/news/soundstation_news.jpg"
+  }
+]

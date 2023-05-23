@@ -1,0 +1,23 @@
+[
+  {
+    "id": 123,
+    "judul": "Yopfest Festival",
+    "tanggal": "19 - feb - 2023",
+    "deskripsi": "Yopfest kembali mengadakan festival music di Kota Parepare Sulawesi Selatan bertemakan A HEALING EXPERIENCE",
+    "poster": "./img/news/yopfest_news.jpg"
+  },
+  {
+    "id": 456,
+    "judul": "Rock In Celebes",
+    "tanggal": "17 - feb - 2022",
+    "deskripsi": "perayaan 13-tahun Rock In Celebes akan mengadakan konser dengan tema 13th Annual, 6 panggung submisi...",
+    "poster": "./img/news/ric_news.jpg"
+  },
+  {
+    "id": 789,
+    "judul": "Soundstational",
+    "tanggal": "10 - March - 2018",
+    "deskripsi": "Soundstation kembali digelar tahun ini. mengusung tema 100 Kota 1 Bahasa, konser itu juga bisa menjadi ajang silaturahmi....",
+    "poster": "./img/news/soundstation_news.jpg"
+  }
+]
