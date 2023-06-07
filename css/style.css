@@ -150,11 +150,13 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(/img/hero.png);
+  position: relative;
+  background-image: url(/img/hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
+
 
 .hero .content {
   position: absolute;
