@@ -16,15 +16,6 @@ html[data-color-mode='dark'] {
   --gradient: rgba(40, 44, 52, 1);
 }
 
-
-html {
-  scroll-snap-type: y proximity;
-}
-
-main {
-  scroll-snap-align: start;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -514,7 +505,7 @@ footer .credit a {
   top: 0;
   width: 100%;
   height: 100%;
-  overflow: auto;
+  overflow: hidden;
   background-color: rgba(0, 0, 0, .7);
   animation: animateModalNews .2s;
 }
@@ -679,6 +670,7 @@ main aside .social-media li a:hover {
 @media (max-width:768px) {
   html {
     font-size: 65%;
+    scroll-snap-type: none;
   }
 
   .menu-toggle {
@@ -931,11 +923,6 @@ main aside .social-media li a:hover {
 
   .navbar .navbar-nav {
     width: 15rem;
-  }
-
-  .hero .imgHero img {
-    border: 1px solid black;
-    max-width: 50vmin;
   }
 
   .about,
