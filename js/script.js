@@ -149,8 +149,8 @@ fetch('data/news.json')
 
     // menambahkan even pada tombol kiri-kanan untuk membuat card berpindah
     lrBtn.forEach(btn => {
-      btn.addEventListener('click', function () {
-        rowNews.scrollLeft += btn.id === 'left' ? -firstCardWidth : firstCardWidth
+      btn.addEventListener('click', () => {
+        rowNews.scrollLeft += btn.id === 'left' ? -firstCardWidth : firstCardWidth;
       });
     });
     // news carousel end
